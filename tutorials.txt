@@ -1,11 +1,17 @@
 Logging tutorials I use
 
-Man v Monster by Grant Abbitt: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri
-Notes:
- - Hopefully gonna learn about materials and coloring. Also wanna learn fog!!
+Done:
+Man v Monster: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri
+ - Learned a bit about materials and fog (volume)
+ - Lots of object duplication, no object joining :\
+   - I joined some objects together. Would've joined some meshes if I were recreating
+     this on my own. Inefficient way of modelling (lots of separate mirror mods, etc.)
 
 
-wanna do:
- - Low-Poly Well: https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_
- - Sea Shack: https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G
- - Teddy Bear: https://www.youtube.com/watch?v=Ebx2qbBlvh0
+Doing:
+Low-Poly Well: https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_
+
+
+Wanna do:
+Sea Shack: https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G
+Teddy Bear: https://www.youtube.com/watch?v=Ebx2qbBlvh0
