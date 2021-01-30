@@ -7,11 +7,17 @@ Man v Monster: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8
    - I joined some objects together. Would've joined some meshes if I were recreating
      this on my own. Inefficient way of modelling (lots of separate mirror mods, etc.)
 
+Low-Poly Well: https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_
+ - Learned nuggets about HDRI
+ - Bend modifier
+ - Grouping and ungrouping objects to modify
+ - I used an alternative coloring method that was way quicker and achieved goals to a
+   greater degree (Random -> ColorRamp -> Shader color)
+
 
 Doing:
-Low-Poly Well: https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_
+Sea Shack: https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G
 
 
 Wanna do:
-Sea Shack: https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G
 Teddy Bear: https://www.youtube.com/watch?v=Ebx2qbBlvh0
